@@ -234,7 +234,7 @@ Full-stack service booking platform — secure auth, dynamic scheduling, real-ti
 
 <br/>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shammi05&bg_color=0d1117&color=00d4ff&line=0ea5e9&point=f97316&area=true&hide_border=true&radius=10)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shammmmmi&bg_color=0d1117&color=00d4ff&line=0ea5e9&point=f97316&area=true&hide_border=true&radius=10)
 
 </div>
 
