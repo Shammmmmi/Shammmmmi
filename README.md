@@ -1,382 +1,363 @@
 <div align="center">
 
-<!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:0a0a2e,60:0d1b4b,100:0ea5e9&height=280&section=header&text=MAHAMMAD%20SHAMMI&fontSize=52&fontColor=00f5ff&fontAlignY=40&desc=◈%20DevOps%20%26%20Cloud%20Engineer%20◈%20Infrastructure%20Alchemist%20◈&descAlignY=62&descSize=14&animation=twinkling&stroke=0ea5e9&strokeWidth=2" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:020817,30:0a1628,60:0c2340,100:0ea5e9&height=280&section=header&text=MAHAMMAD%20SHAMMI&fontSize=52&fontColor=ffffff&fontAlignY=42&desc=⚡%20DevOps%20%7C%20Cloud%20Architect%20%7C%20Infrastructure%20Engineer%20⚡&descAlignY=62&descSize=16&animation=twinkling&stroke=0ea5e9&strokeWidth=2" width="100%"/>
 
-<!-- TYPING ANIMATION -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=60&lines=%24+terraform+apply+--auto-approve+%F0%9F%9A%80;%24+kubectl+get+pods+--all-namespaces+%E2%9C%85;%24+docker+build+-t+shammi%2Fprod+.+%F0%9F%90%B3;%24+jenkins+pipeline+--deploy+to+AWS+%E2%98%81%EF%B8%8F;%24+echo+%22Infrastructure+as+Code+%3D+%E2%9D%A4%EF%B8%8F%22" alt="Typing SVG" />
-</a>
+</div>
 
-<br/>
+<div align="center">
 
-<!-- SOCIAL BADGES -->
-<p align="center">
-  <a href="mailto:sshammi079@gmail.com">
-    <img src="https://img.shields.io/badge/◈_EMAIL-sshammi079@gmail.com-00f5ff?style=for-the-badge&logo=protonmail&logoColor=00f5ff&labelColor=0a0a2e&color=0a0a2e"/>
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/shammi05">
-    <img src="https://img.shields.io/badge/◈_LINKEDIN-Connect-00f5ff?style=for-the-badge&logo=linkedin&logoColor=00f5ff&labelColor=0a0a2e&color=0a0a2e"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/shammi05">
-    <img src="https://img.shields.io/badge/◈_GITHUB-shammi05-00f5ff?style=for-the-badge&logo=github&logoColor=00f5ff&labelColor=0a0a2e&color=0a0a2e"/>
-  </a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/◈_LOCATION-Bengaluru,_India-f97316?style=for-the-badge&logo=googlemaps&logoColor=f97316&labelColor=0a0a2e&color=0a0a2e"/>
-</p>
+```
+╔══════════════════════════════════════════════════════════════════════════════╗
+║  > whoami                                                                    ║
+║  SHAMMI — DevOps & Cloud Engineer | Bengaluru, India                        ║
+║  > cat passion.txt                                                           ║
+║  Turning infrastructure chaos → bulletproof, scalable cloud systems         ║
+║  > uptime                                                                    ║
+║  Always learning. Always shipping. Never stopping.                           ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
 
-<!-- PROFILE VIEWS + STATUS BADGES -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shammi05&color=00f5ff&style=flat-square&label=◈+PROFILE+SCANS"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/STATUS-AVAILABLE_FOR_HIRE-39ff14?style=flat-square&labelColor=0a0a2e"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/UPTIME-99.9%25-00f5ff?style=flat-square&labelColor=0a0a2e"/>
-</p>
+</div>
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/📧%20sshammi079@gmail.com-0ea5e9?style=for-the-badge&logoColor=white)](mailto:sshammi079@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shammi05-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shammi05)
+[![GitHub](https://img.shields.io/badge/GitHub-shammi05-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shammi05)
+[![Phone](https://img.shields.io/badge/📱%20+91%2074111%2029939-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+917411129939)
+[![Location](https://img.shields.io/badge/📍%20Bengaluru,%20India-f97316?style=for-the-badge)](https://maps.google.com/?q=Bengaluru,India)
 
 </div>
 
 ---
 
-<!-- TERMINAL BLOCK -->
+<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=shammi05&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=0ea5e9&icon_color=f97316&text_color=c9d1d9"/>
+
+## `> cat about_me.sh`
+
 ```bash
-╔══════════════════════════════════════════════════════════════════╗
-║           SHAMMI@CLOUD-OPS  ~  SYSTEM INITIALIZED               ║
-╠══════════════════════════════════════════════════════════════════╣
-║  $ whoami                                                        ║
-║  > DevOps & Cloud Engineer | Infrastructure Alchemist            ║
-║                                                                  ║
-║  $ cat mission.txt                                               ║
-║  > Build. Automate. Scale. Repeat.                               ║
-║  > Terraform + K8s + Docker = Production Magic                   ║
-║                                                                  ║
-║  $ uptime                                                        ║
-║  > 3 years coding | 2+ years cloud architecture | 0 downtime     ║
-║                                                                  ║
-║  $ ping interests                                                ║
-║  > AWS Infrastructure, CI/CD Pipelines, IaC, Observability       ║
-║                                                                  ║
-║  $ echo $STATUS                                                  ║
-║  > Open to DevOps / Cloud roles  ◈  Bengaluru, India             ║
-╚══════════════════════════════════════════════════════════════════╝
-```
+#!/bin/bash
+NAME="Mahammad Shammi"
+ROLE="DevOps & Cloud Engineer"
+LOCATION="Bengaluru, Karnataka 🇮🇳"
+EXPERIENCE="6 months @ Fortune Cloud / Cravita Technologies"
+LANGUAGES=("English" "Kannada" "Hindi" "Malayalam")
 
----
-
-## ⚡ ABOUT ME
-
-<img align="right" width="300" src="https://github-readme-activity-graph.vercel.app/graph?username=shammi05&bg_color=0d1117&color=00f5ff&line=0ea5e9&point=f97316&area=true&hide_border=true&radius=10"/>
-
-```yaml
-name:       Mahammad Shammi
-handle:     shammi05
-location:   Bengaluru, Karnataka, India
-role:       Cloud & DevOps Engineer
-
-currently:
-  - 🔥 Architecting scalable 3-tier AWS systems
-  - 🤖 Automating everything with Terraform & Ansible
-  - 📦 Containerizing workloads — Docker & Kubernetes
-  - 📡 Observability with Prometheus + Grafana + CloudWatch
-
-past:
-  - ☁️  Cloud & DevOps Intern @ Fortune Cloud / Cravita
-  - 🐍 Python Dev Intern @ OctaNet Services
-
-languages:
-  - spoken:  [English, Kannada, Hindi, Malayalam]
-  - coded:   [Python, Bash, HCL, YAML, SQL]
-
-motto: "If it can be automated, it will be automated."
+echo "🚀 Deploying scalable AWS architectures"
+echo "⚙️  Automating pipelines that save hours of manual work"
+echo "🐳 Containerizing workloads with Docker & Kubernetes"
+echo "📊 Monitoring systems before they break, not after"
+echo "🌱 BCA → Cloud Intern → DevOps Engineer → ∞"
 ```
 
 <br clear="right"/>
 
 ---
 
-## 🛠️ TECH ARSENAL
+## `> ls -la skills/`
 
-### ☁️ Cloud & DevOps Core
+<table>
+<tr>
+<td valign="top" width="33%">
 
-<div align="center">
+### ☁️ Cloud & IaC
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+**AWS Services Mastered:**
+`EC2` `S3` `IAM` `VPC` `RDS`
+`Lambda` `ALB` `Route 53`
+`CloudWatch` `Auto Scaling`
+`EKS` `ECR` `CodePipeline`
 
-</div>
+</td>
+<td valign="top" width="33%">
 
-### 🌩️ AWS Services Mastered
+### 🐳 Containers & Orchestration
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-<div align="center">
+**CI/CD & Pipelines:**
 
-| Compute | Networking | Storage | Monitoring |
-|:---:|:---:|:---:|:---:|
-| ![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazon-ec2&logoColor=white) ![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white) ![ECS](https://img.shields.io/badge/ECS-FF9900?style=flat-square&logo=amazon-ecs&logoColor=white) | ![VPC](https://img.shields.io/badge/VPC-8C4FFF?style=flat-square&logo=amazon-aws&logoColor=white) ![Route53](https://img.shields.io/badge/Route_53-8C4FFF?style=flat-square&logo=amazon-route53&logoColor=white) ![ALB](https://img.shields.io/badge/ALB-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) | ![S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white) ![RDS](https://img.shields.io/badge/RDS-527FFF?style=flat-square&logo=amazon-rds&logoColor=white) ![EBS](https://img.shields.io/badge/EBS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) | ![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square&logo=amazon-cloudwatch&logoColor=white) ![X-Ray](https://img.shields.io/badge/X--Ray-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) |
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-</div>
+</td>
+<td valign="top" width="33%">
 
-### 📡 Observability Stack
-
-<div align="center">
-
+### 📊 Monitoring & Observability
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazon-cloudwatch&logoColor=white)
-![ELK](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)
 
-</div>
+**Languages & Tools:**
 
-### 💻 Languages & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![YAML](https://img.shields.io/badge/YAML-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
-## 🚀 MISSION-CRITICAL PROJECTS
+## `> cat projects/featured.json`
 
-### ◈ PROJECT ALPHA — Automated Scalable Web Application
+<details open>
+<summary><b>🏗️ PROJECT 01 — Automated Scalable 3-Tier AWS Architecture</b></summary>
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
-│  🏗️  STACK:  AWS · Terraform · Docker · CloudWatch · ASG       │
-│  📊 STATUS:  ██████████████████████████████  PRODUCTION LIVE   │
+│  STACK: AWS · Terraform · Docker · CloudWatch · Auto Scaling    │
+│  TYPE:  Production Infrastructure · IaC · High Availability     │
 └─────────────────────────────────────────────────────────────────┘
 ```
 
-> Production-grade **3-tier AWS architecture** with 100% Infrastructure as Code — designed for scale, built for zero downtime.
+> **Problem:** Manual infrastructure = human error, slow recovery, no reproducibility.
+> **Solution:** Fully automated, version-controlled, self-healing cloud environment.
 
-- 🔥 **Terraform IaC** — fully reproducible, version-controlled cloud environments
-- ⚖️ **Auto Scaling Groups** + **ALB** — elastic workloads, always on
-- 🐳 **Dockerized** services with multi-stage builds and optimized layers
-- 📡 **CloudWatch** alarms + dashboards — proactive incident detection
-- 🔐 **IAM least-privilege** policies across all services
+| Feature | Implementation |
+|---|---|
+| 🔄 **Zero-Downtime Deployments** | ALB + Rolling update strategy |
+| 📈 **Auto Scaling** | ASG with custom CloudWatch metrics |
+| 🏗️ **Infrastructure as Code** | 100% Terraform — reproducible in minutes |
+| 🐳 **Containerization** | Docker workloads across all tiers |
+| 🚨 **Proactive Alerting** | CloudWatch alarms → SNS notifications |
+| 🔒 **Security** | Private subnets, Security Groups, IAM roles |
+
+</details>
 
 ---
 
-### ◈ PROJECT BETA — CI/CD Pipeline Automation Engine
+<details open>
+<summary><b>⚙️ PROJECT 02 — Enterprise CI/CD Pipeline</b></summary>
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
-│  ⚙️  STACK:  Jenkins · GitHub Actions · AWS · IAM              │
-│  ⚡ RESULT:  Deployment time cut by 60%+ with zero manual steps │
+│  STACK: Jenkins · GitHub Actions · AWS · Automated Testing      │
+│  TYPE:  DevOps Pipeline · Continuous Delivery · Automation      │
 └─────────────────────────────────────────────────────────────────┘
 ```
 
-> End-to-end automated delivery — from commit to production with zero human intervention.
+> **Impact:** Slashed deployment time from hours → minutes with zero manual intervention.
 
-- 🔄 **Multi-stage pipelines** — build → test → scan → deploy → verify
-- 🧪 **Automated testing** gates — no broken code reaches production
-- ☁️ **AWS deployment** integration with rollback capabilities
-- 🔐 **Secrets management** with IAM roles — zero hardcoded credentials
+```
+CODE PUSH → GitHub Actions (Lint + Test) → Jenkins (Build + Docker)
+          → ECR (Image Push) → ECS/EC2 Deploy → CloudWatch Monitor
+                                    ✅ DONE in < 8 minutes
+```
+
+| Stage | Tool | Outcome |
+|---|---|---|
+| Source Control | GitHub | Webhook-triggered pipeline |
+| CI Testing | GitHub Actions | Auto test on every PR |
+| Build & Package | Jenkins | Docker image creation |
+| Secure Delivery | IAM Roles | Zero hardcoded credentials |
+| Deploy | AWS | Blue/Green deployment |
+
+</details>
 
 ---
 
-### ◈ PROJECT GAMMA — Dockerized Expense Tracker
+<details open>
+<summary><b>🐳 PROJECT 03 — Dockerized Expense Tracker (Microservices)</b></summary>
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
-│  🐳 STACK:  Docker · Docker Compose · Flask · Node.js · MySQL   │
-│  🔗 REPO:   github.com/shammi05  →  [View Source]              │
+│  STACK: Docker · Docker Compose · Flask · Node.js · MySQL       │
+│  TYPE:  Full-Stack · Microservices · Containerized App          │
 └─────────────────────────────────────────────────────────────────┘
 ```
 
-> Full microservices expense tracking app — containerized, isolated, production-ready.
+**Architecture:**
+```
+┌──────────────┐    ┌──────────────┐    ┌──────────────┐
+│   Frontend   │───▶│   Backend    │───▶│    MySQL     │
+│  (Node.js)   │    │   (Flask)    │    │   Database   │
+│  Port: 3000  │    │  Port: 5000  │    │  Port: 3306  │
+└──────────────┘    └──────────────┘    └──────────────┘
+       All orchestrated via Docker Compose 🐳
+```
 
-- 🧱 **Docker Compose** multi-service orchestration — frontend/backend/DB isolated
-- 🔐 **JWT-authenticated** REST APIs with role-based access control
-- 🗄️ **MySQL** with persistent volumes — data survives container restarts
-- 🌐 Reverse proxy with **Nginx** for clean service routing
+- ✅ REST API with JWT authentication
+- ✅ Persistent volumes for data integrity
+- ✅ Environment-based config management
+- ✅ Network isolation between containers
+
+[**→ View on GitHub**](https://github.com/shammi05)
+
+</details>
 
 ---
 
-### ◈ PROJECT DELTA — Online Maid Service Platform
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│  🌐 STACK:  PHP · MySQL · HTML5 · CSS3 · JavaScript             │
-│  🎯 TYPE:   Full-Stack Web Application                          │
-└─────────────────────────────────────────────────────────────────┘
-```
-
-> Enterprise-grade service booking platform with real-time scheduling and auth.
-
-- 🔑 **Secure auth** system — session management & hashed credentials
-- 📅 **Dynamic scheduling** — real-time service management UI
-- 📱 **Responsive** Bootstrap design — mobile-first approach
-- 🔄 **Live sync** across concurrent sessions
-
----
-
-## 📊 LIVE SYSTEM METRICS
+## `> cat metrics/github_stats.log`
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shammi05&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=f97316&text_color=c9d1d9&ring_color=00f5ff" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shammi05&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=c9d1d9" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shammi05&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=0ea5e9&icon_color=f97316&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shammi05&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&text_color=c9d1d9"/>
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=shammi05&theme=tokyonight&hide_border=true&background=0d1117&stroke=00f5ff&ring=00f5ff&fire=f97316&currStreakLabel=00f5ff&sideLabels=00f5ff&dates=c9d1d9)
+![GitHub Streak](https://streak-stats.demolab.com?user=shammi05&theme=tokyonight&hide_border=true&background=0d1117&stroke=0ea5e9&ring=0ea5e9&fire=f97316&currStreakLabel=0ea5e9&sideLabels=c9d1d9)
 
 </div>
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shammi05&bg_color=0d1117&color=00f5ff&line=0ea5e9&point=f97316&area=true&area_color=0ea5e920&hide_border=true&radius=8)](https://github.com/shammi05)
-
-</div>
-
----
-
-## 🏆 TROPHIES & ACHIEVEMENTS
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=shammi05&theme=matrix&no-frame=true&no-bg=true&margin-w=6&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shammi05&bg_color=0d1117&color=0ea5e9&line=0ea5e9&point=f97316&area=true&hide_border=true)](https://github.com/shammi05)
 
 </div>
 
 ---
 
-## 🎓 CREDENTIALS & CLEARANCES
-
-<div align="center">
+## `> cat achievements/certifications.txt`
 
 ```
-╔══════════════════════════════════════════════════════════════════════╗
-║                    ◈  EDUCATION & CERTIFICATIONS  ◈                 ║
-╠══════════════════════════════════════════════════════════════════════╣
-║                                                                      ║
-║  🎓  BCA — Bachelor of Computer Applications                        ║
-║      SES Shivaji Arts, Commerce & BCA College, Karwar                ║
-║      [2022 → 2025]  ████████████████████  COMPLETED                 ║
-║                                                                      ║
-║  🏫  Pre-University (EBAH)                                          ║
-║      KLE Pre-University College, Ankola                              ║
-║      [2020 → 2022]  ████████████████████  COMPLETED                 ║
-║                                                                      ║
-║  ☁️  AWS Solutions Architecture Job Simulation                      ║
-║      Forage  ·  Jan 2026                                             ║
-║      [VERIFIED]  ███████████████████████  CERTIFIED  ✅             ║
-║                                                                      ║
-╚══════════════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════╗
+║  🏆 CERTIFICATIONS & EDUCATION                                   ║
+╠══════════════════════════════════════════════════════════════════╣
+║                                                                  ║
+║  🎓 BCA — Bachelor of Computer Applications          2022–2025  ║
+║     SES Shivaji Arts, Commerce & BCA College, Karwar            ║
+║                                                                  ║
+║  ☁️  AWS Solutions Architecture Job Simulation        Jan 2026   ║
+║     Forage — Hands-on AWS architecture design                   ║
+║                                                                  ║
+║  🎓 Pre-University (EBAH)                             2020–2022  ║
+║     KLE Pre-University College, Ankola                          ║
+║                                                                  ║
+╠══════════════════════════════════════════════════════════════════╣
+║  📌 In Progress: AWS Certified Solutions Architect – Associate  ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
-
-</div>
 
 ---
 
-## 💼 MISSION LOG — EXPERIENCE
+## `> cat experience/history.yml`
+
+```yaml
+experience:
+  - role: "Cloud & DevOps Intern"
+    company: "Fortune Cloud Technologies / Cravita Technologies"
+    location: "Bengaluru, Karnataka"
+    duration: "Sep 2025 – Feb 2026"
+    highlights:
+      - "Designed & deployed scalable 3-tier AWS infrastructure from scratch"
+      - "Built automated CI/CD pipelines — cut deployment time by 60%+"
+      - "Containerized applications using Docker & Kubernetes (EKS)"
+      - "Automated cloud provisioning with Terraform (IaC)"
+      - "Set up full observability stack: CloudWatch + Prometheus + Grafana"
+      - "Managed VPCs, Security Groups, IAM roles for least-privilege access"
+
+  - role: "Python Developer Intern"
+    company: "OctaNet Services Pvt Ltd"
+    location: "Remote"
+    duration: "Sep 2024 – Oct 2024"
+    highlights:
+      - "Developed Python automation scripts for business workflows"
+      - "Integrated third-party REST APIs for automated data exchange"
+      - "Built data processing logic reducing manual effort significantly"
+```
+
+---
+
+## `> echo $CURRENTLY_LEARNING`
 
 <div align="center">
 
 ```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-◈  MISSION 01  ·  Sep 2025 → Feb 2026
-   Cloud & DevOps Intern
-   Fortune Cloud Technologies / Cravita Technologies · Bengaluru
-
-   COMPLETED OBJECTIVES:
-   ✅  Designed & deployed scalable 3-tier AWS architecture
-   ✅  Built Jenkins + GitHub Actions CI/CD pipelines
-   ✅  Containerized apps with Docker & Kubernetes (EKS)
-   ✅  Automated IaC with Terraform — 100% reproducible infra
-   ✅  Observability: CloudWatch + Prometheus + Grafana dashboards
-   ✅  Zero-downtime deployments via Blue/Green strategies
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-◈  MISSION 02  ·  Sep 2024 → Oct 2024
-   Python Developer Intern
-   OctaNet Services Pvt Ltd · Remote
-
-   COMPLETED OBJECTIVES:
-   ✅  Developed Python automation scripts & data pipelines
-   ✅  Integrated REST APIs for automated data exchange
-   ✅  Built data processing logic with structured workflows
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+┌──────────────────────────────────────────────────────────────┐
+│                    🧠 CURRENT FOCUS                          │
+│                                                              │
+│  [ ████████████░░░░ ]  AWS SAA-C03 Certification           │
+│  [ ██████████░░░░░░ ]  Advanced Kubernetes (CKA prep)      │
+│  [ ████████░░░░░░░░ ]  GitOps with ArgoCD & Flux           │
+│  [ ██████░░░░░░░░░░ ]  Service Mesh (Istio)                │
+│  [ ████░░░░░░░░░░░░ ]  Platform Engineering practices      │
+└──────────────────────────────────────────────────────────────┘
 ```
 
 </div>
 
 ---
 
-## 🧠 CURRENT LEARNING QUEUE
+## `> cat values/what_i_bring.md`
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+### 🎯
+**Ownership Mindset**
+
+I treat every system like it's production. No half-measures.
+
+</td>
+<td align="center" width="25%">
+
+### 🔁
+**Automation First**
+
+If it can be scripted, it will be scripted. Manual is the enemy.
+
+</td>
+<td align="center" width="25%">
+
+### 📊
+**Observability Native**
+
+I don't deploy and hope. I deploy, measure, and know.
+
+</td>
+<td align="center" width="25%">
+
+### 🚀
+**Continuous Learner**
+
+Cloud changes fast. I change faster.
+
+</td>
+</tr>
+</table>
+
+---
+
+## `> ping connect.shammi --all-interfaces`
 
 <div align="center">
 
-```
- SKILL TREE PROGRESS — Q1 2026
- ─────────────────────────────────────────────────────────
- AWS Solutions Architect Associate    ████████████░░░░  75%
- Certified Kubernetes Administrator   ██████████░░░░░░  60%
- Terraform Associate (003)            █████████████░░░  80%
- ArgoCD / GitOps                      ████████░░░░░░░░  50%
- Service Mesh (Istio)                 ██████░░░░░░░░░░  40%
- ─────────────────────────────────────────────────────────
-```
+[![Email](https://img.shields.io/badge/Gmail-sshammi079@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sshammi079@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shammi05)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shammi05)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-+91%2074111%2029939-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/917411129939)
+
+**📬 Open to:** Full-Time DevOps / Cloud Engineer Roles · Remote or Bengaluru · Available Immediately
 
 </div>
 
 ---
 
-## 📡 OPEN COMMS — CONNECT
-
 <div align="center">
-
-[![Email](https://img.shields.io/badge/◈_SEND_MESSAGE-sshammi079@gmail.com-00f5ff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a2e)](mailto:sshammi079@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/◈_LINKEDIN-shammi05-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a2e)](https://www.linkedin.com/in/shammi05)
-[![GitHub](https://img.shields.io/badge/◈_GITHUB-shammi05-00f5ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a2e)](https://github.com/shammi05)
-[![Phone](https://img.shields.io/badge/◈_WHATSAPP-+91_7411129939-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0a0a2e)](tel:+917411129939)
-
-</div>
-
----
-
-<!-- SNAKE CONTRIBUTION GRAPH -->
-<div align="center">
-
-### 🐍 CONTRIBUTION FEED
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shammi05/shammi05/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shammi05/shammi05/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shammi05/shammi05/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
----
-
-<!-- FOOTER -->
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0ea5e9,50:0d1b4b,100:000000&height=150&section=footer&text=BUILD%20·%20AUTOMATE%20·%20SCALE&fontSize=28&fontColor=00f5ff&animation=twinkling&stroke=00f5ff&strokeWidth=1" width="100%" />
 
 ```
-  ◈ "The cloud is not a destination — it's an operating model." ◈
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│   "Infrastructure is not just servers and scripts —        │
+│    it's the backbone that lets great products scale."      │
+│                                        — Shammi            │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
 ```
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=shammi05.shammi05&color=00f5ff)
-&nbsp;
-![Last Updated](https://img.shields.io/badge/LAST_SYNCED-March_2026-00f5ff?style=flat-square&labelColor=0a0a2e)
+![Profile Views](https://komarev.com/ghpvc/?username=shammi05&color=0ea5e9&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/shammi05?style=for-the-badge&color=0ea5e9&labelColor=0d1117)
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0ea5e9,50:0c2340,100:020817&height=150&section=footer&animation=twinkling" width="100%"/>
 
 </div>
