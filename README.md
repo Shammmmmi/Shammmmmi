@@ -225,12 +225,12 @@ Full-stack service booking platform — secure auth, dynamic scheduling, real-ti
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shammi05&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&border_radius=10"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shammi05&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&border_radius=10"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shammmmmi&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&border_radius=10"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shammmmmi&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&border_radius=10"/>
 
 <br/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=shammi05&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=f97316&currStreakLabel=00d4ff&sideLabels=c9d1d9&dates=c9d1d9&sideNums=00d4ff&currStreakNum=f97316)
+![GitHub Streak](https://streak-stats.demolab.com?user=shammmmmi&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=f97316&currStreakLabel=00d4ff&sideLabels=c9d1d9&dates=c9d1d9&sideNums=00d4ff&currStreakNum=f97316)
 
 <br/>
 
