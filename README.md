@@ -16,7 +16,7 @@
   <a href="https://www.linkedin.com/in/shammi05">
     <img src="https://img.shields.io/badge/◈_LINKEDIN-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a1a"/>
   </a>
-  <a href="https://github.com/shammi05">
+  <a href="https://github.com/shammmmmi">
     <img src="https://img.shields.io/badge/◈_GITHUB-SHAMMI05-00d4ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a1a"/>
   </a>
   <img src="https://img.shields.io/badge/◈_LOCATION-BENGALURU%20%7C%20IN-f97316?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0a0a1a"/>
